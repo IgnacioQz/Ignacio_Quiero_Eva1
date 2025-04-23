@@ -1,0 +1,24 @@
+#Titulo{
+    color: rgb(226, 43, 43);
+    border: 6px solid; /* con esto creamos un borde  */
+    border-style: double; /* y aqui le ajustamos el estilo del borde */
+}
+
+
+#fondo{
+    color: blueviolet;
+    /*background-color: rgb(71, 11, 211);*/
+    height: 248px;
+    /*width: 200px;*/
+    background-image:url(C:/Users/tallerespa/Ignacio_Quiero_Eva1/images/fondo.jpg);
+    background-size:  400 px, 300 px; 
+    background-position: left;
+}
+
+#obj{
+    color: green;
+}
+
+#list{
+    color: blue;
+}
